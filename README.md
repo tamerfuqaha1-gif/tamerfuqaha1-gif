@@ -36,10 +36,3 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
 </p>
-
-### 📊 Activité
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tamerfuqaha1-gif&show_icons=true&hide_border=true&theme=transparent" alt="Stats GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamerfuqaha1-gif&layout=compact&hide_border=true&theme=transparent" alt="Langages">
-</p>
